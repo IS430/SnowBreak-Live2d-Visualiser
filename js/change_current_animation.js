@@ -6,9 +6,9 @@ let premultipliedAlphaValue = false;
 
 const change_spine = (id, assetSpineVersion) => {
 
-    if (current_spine !== ""){
-        current_spine.dispose();
-    }
+    // if (current_spine !== ""){
+    //     current_spine.dispose();
+    // }
 
     activeid = id
     activeSpineVersion = assetSpineVersion
