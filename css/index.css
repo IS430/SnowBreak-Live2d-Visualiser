@@ -90,7 +90,7 @@ body {
     color: white;
     padding: 10px;
     position: relative;
-    width: 200px;
+    /* width: 200px; */
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
     z-index: 0;
